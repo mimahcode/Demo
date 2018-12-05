@@ -1,2 +1,2 @@
 # Demo
-A demo of repository creation.
+This is a README for demonstration on github.
